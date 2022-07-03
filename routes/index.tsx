@@ -19,6 +19,7 @@ export default function Home({data}) {
   }
   return (
     <div > 
+      <h1>jambe</h1>
       <h1>{nama}</h1>
     tolol
      {data.data.map((p)=>(
